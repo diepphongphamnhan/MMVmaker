@@ -1,0 +1,6 @@
+{
+  "name": "KuroKage MMV Studio",
+  "description": "High-performance native Linux Manga Music Video (MMV) editing engine and interactive kinematics workbench with CGo, Skia 2D rendering, and FFmpeg raw pipeline integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
